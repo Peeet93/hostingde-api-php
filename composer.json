@@ -31,7 +31,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Hostingde\\API": "src/Hostingde/API/"
+      "Hostingde\\API\\": "src/Hostingde/API/"
     }
   }
 }
